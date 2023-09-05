@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@dagrejs/dagre": "^1.0.2",
-    "@kaoto-next/camel-catalog": "0.1.0",
+    "@kaoto-next/camel-catalog": "workspace:*",
     "@kie-tools/uniforms-patternfly": "^0.31.0",
     "@patternfly/patternfly": "^5.0.0",
     "@patternfly/react-core": "^5.0.0",

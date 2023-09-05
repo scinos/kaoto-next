@@ -16,7 +16,8 @@
     "uniforms-bridge-json-schema": "4.0.0-alpha.0"
   },
   "scripts": {
-    "postinstall": "yarn workspace @kaoto-next/camel-catalog run build"
+    "postinstall": "yarn workspace @kaoto-next/camel-catalog run build",
+    "release": "release-it"
   },
   "engines": {
     "node": "18.x"
@@ -24,7 +25,8 @@
   "devDependencies": {
     "@lerna-lite/publish": "^2.5.0",
     "husky": "^8.0.3",
-    "lint-staged": "^14.0.0"
+    "lint-staged": "^14.0.0",
+    "release-it": "^16.1.5"
   },
   "packageManager": "yarn@3.6.3"
 }
