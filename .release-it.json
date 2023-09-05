@@ -7,5 +7,8 @@
   },
   "npm": {
     "publish": false
+  },
+  "plugins": {
+    "@release-it-plugins/workspaces": true
   }
 }

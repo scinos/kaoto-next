@@ -24,6 +24,7 @@
   },
   "devDependencies": {
     "@lerna-lite/publish": "^2.5.0",
+    "@release-it-plugins/workspaces": "^4.0.0",
     "husky": "^8.0.3",
     "lint-staged": "^14.0.0",
     "release-it": "^16.1.5"
